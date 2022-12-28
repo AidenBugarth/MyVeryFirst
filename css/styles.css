@@ -5,6 +5,9 @@ body {
 .cosas {
     background-color: blue;
 }
-h2 {
-    background-color: purple;
+.cabecera {
+    font-size: xx-large;
+    background-color: blueviolet;
+    font-style: italic;
+    color: crimson;
 }
